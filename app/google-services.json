@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "902299215187",
+    "firebase_url": "https://findimage-d36fd.firebaseio.com",
+    "project_id": "findimage-d36fd",
+    "storage_bucket": "findimage-d36fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902299215187:android:4018fc9049f311f3",
+        "android_client_info": {
+          "package_name": "com.ravi.findimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902299215187-udg9c0uu0ojuclu1qbfcl68jg7pnbri8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxPKV29oyuU2Kh2o-EiOjHOLK7BDWlBC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
